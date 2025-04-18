@@ -27,8 +27,10 @@ This project demonstrates how to use **Python** with **SQLite**, **Pandas**, and
 
 ## 📁 Project Structure
 
-sales_summary_project/├── Sales_Summary.ipynb # Jupyter notebook (main file) └── sales_chart.png # Revenue bar chart
-
+sales_summary_project/
+├── sales_data.db # SQLite DB with sales table
+├── sales_summary.ipynb # Jupyter notebook (main file)
+└── sales_chart.png # Revenue bar chart
 
 ---
 
@@ -68,6 +70,6 @@ A bar chart showing Revenue by Product is generated and saved as sales_chart.png
 
 ---
 👨‍💻 Author
-Pranathi
+Pranathi Deshapaka
 
 GitHub: PRANATHI08D
